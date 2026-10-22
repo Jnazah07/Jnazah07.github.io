@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jnazah07.twa",
+      "sha256_cert_fingerprints": [
+        "50:24:E3:ED:9A:D8:74:F8:2C:16:95:3B:A7:E4:A3:63:C4:E4:1B:7E:E6:2C:0C:DA:07:DD:5A:3B:A1:3A:0C:5C"
+      ]
+    }
+  }
+]
